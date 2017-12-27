@@ -6,4 +6,4 @@ install:
   - dotnet restore ./src/Styxz.Assetyard.sln
 script:
   - dotnet build ./src/
-  - find . -maxdepth 3 -name “*Test.csproj” -type f | xargs dotnet test
+  - find . -maxdepth 4 -type f -name "*Tests.csproj" | xargs dotnet test
