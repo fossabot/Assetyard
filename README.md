@@ -1,6 +1,6 @@
-# Assetyard 
-
 [![Build Status](https://travis-ci.org/Styxz/Assetyard.svg?branch=master)](https://travis-ci.org/Styxz/Assetyard)
+
+# Assetyard 
 
 Assetyard is cross-platform desktop Content Pipeline for game projects.
 
