@@ -7,3 +7,5 @@ install:
 script:
   - dotnet build ./src/
   - find . -maxdepth 4 -type f -name "*Tests.csproj" | xargs dotnet test
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
