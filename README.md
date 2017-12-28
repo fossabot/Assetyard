@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.org/Styxz/Assetyard.svg?branch=master)](https://travis-ci.org/Styxz/Assetyard)
-[![codecov](https://codecov.io/gh/Styxz/Assetyard/branch/master/graph/badge.svg)](https://codecov.io/gh/Styxz/Assetyard)
 
 # Assetyard 
 
