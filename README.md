@@ -16,13 +16,4 @@ Assetyard is cross-platform desktop Content Pipeline for game projects.
 
 See [Xamarin's documention: Why Use a Content Pipeline?](https://developer.xamarin.com/guides/cross-platform/game_development/cocossharp/content_pipeline/introduction/#Why_Use_a_Content_Pipeline)
 
-## Building Assetyard
-
-Assetyard uses [.NET Core](https://github.com/dotnet/core) [command line interface (CLI) tools](https://docs.microsoft.com/en-us/dotnet/core/tools/). 
-
-1. [Install .NET Core](https://www.microsoft.com/net/download/core).
-2. Build Assetyard for your operating system using [`dotnet build`](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-build).
-
-## Using Assetyard
-
-//TODO
+## TODO
