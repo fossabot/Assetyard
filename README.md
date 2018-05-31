@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/Styxz/Assetyard.svg?branch=master)](https://travis-ci.org/Styxz/Assetyard)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FStyxz%2FAssetyard.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FStyxz%2FAssetyard?ref=badge_shield)
 
 # Assetyard 
 
@@ -17,3 +18,7 @@ Assetyard is cross-platform desktop Content Pipeline for game projects.
 See [Xamarin's documention: Why Use a Content Pipeline?](https://developer.xamarin.com/guides/cross-platform/game_development/cocossharp/content_pipeline/introduction/#Why_Use_a_Content_Pipeline)
 
 ## TODO
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FStyxz%2FAssetyard.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FStyxz%2FAssetyard?ref=badge_large)
